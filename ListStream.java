@@ -22,7 +22,7 @@ emplist.add(new Employee("Shruti", "Gautam", 500l, "Delhi"));
 //unique firstname of employees salary<5000 and place=Delhi
 emplist.stream()
 .filter(e -> e.getSalary() < 5000 && e.getCity()=="Delhi")
-.map(Employee::getfirstName)
+.map(Employee::getFirstName)
 .forEach(System.out::println);
     }
 
