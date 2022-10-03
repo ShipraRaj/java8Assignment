@@ -39,4 +39,4 @@ this.lastName=lastName;
 this.salary=salary;
 this.city=city;
 }
-
+}
