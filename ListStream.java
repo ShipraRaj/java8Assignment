@@ -15,8 +15,8 @@ List<Employee> emplist = new ArrayList<Employee>();
 emplist.add(new Employee("Shipra", "Raj", 900001, "Jharkhand"));
 emplist.add(new Employee("Vivek", "Agnihotri", 800002, "Bihar"));
 emplist.add(new Employee("Devanshi", "Gupta", 700003, "UP"));
-emplist.add(new Employee("Hrpreet", "Kaur", 600004, "Delhi"));
-emplist.add(new Employee("Shruti", "Gautam", 500005, "Kolkata"));
+emplist.add(new Employee("Hrpreet", "Kaur", 604l, "Delhi"));
+emplist.add(new Employee("Shruti", "Gautam", 500l, "Delhi"));
 
 
 //unique firstname of employees salary<5000 and place=Delhi
